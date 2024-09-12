@@ -8,11 +8,11 @@
   /*========== Colors ==========*/
   
 
-  --black-color: #00000032; /* Cambiamos el color negro a un tono más oscuro */
+  --black-color: #1a1717; /* Cambiamos el color negro a un tono más oscuro */
 
-  --black-color-light: #33333383; /* Cambiamos el color negro claro a un tono más oscuro */
+  --black-color-light: #33333399; /* Cambiamos el color negro claro a un tono más oscuro */
 
-  --black-color-lighten: #33333383; /* Cambiamos el color negro claro aún más a un tono más oscuro */
+  --black-color-lighten: #333333a7; /* Cambiamos el color negro claro aún más a un tono más oscuro */
 
   --white-color: #fff; /* No cambiamos el color blanco */
 
