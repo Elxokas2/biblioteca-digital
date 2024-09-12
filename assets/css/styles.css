@@ -8,7 +8,7 @@
   /*========== Colors ==========*/
   
 
-  --black-color: #1a1717; /* Cambiamos el color negro a un tono más oscuro */
+  --black-color: #1a171700; /* Cambiamos el color negro a un tono más oscuro */
 
   --black-color-light: #33333399; /* Cambiamos el color negro claro a un tono más oscuro */
 
@@ -16,7 +16,7 @@
 
   --white-color: #fff; /* No cambiamos el color blanco */
 
-  --body-color: #222; /* Cambiamos el color de fondo del cuerpo a un tono más oscuro */
+  --body-color: #fccb05; /* Cambiamos el color de fondo del cuerpo a un tono más oscuro */
 
   
 
@@ -424,7 +424,7 @@ article p {
 /*BOTOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOON*/
 
 /* From Uiverse.io by MuhammadHasann */ 
-button {
+/*button {
   position: relative;
   padding: 15px 45px;
   background: #fec195;
@@ -556,7 +556,7 @@ button:hover .icon-3 {
   100% {
     transform: rotate(0);
   }
-}
+} */
 
 /* footer {
   position: absolute;
