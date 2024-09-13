@@ -14,7 +14,7 @@ const showMenu = (toggleId, navId) =>{
 
 showMenu('nav-toggle','nav-menu')
 
-document.addEventListener("DOMContentLoaded", function() {
+/*document.addEventListener("DOMContentLoaded", function() {
     var img = new Image();
     img.src = 'assets/img/part1.jpeg';
 
@@ -23,10 +23,10 @@ document.addEventListener("DOMContentLoaded", function() {
         document.body.style.backgroundImage = "url('assets/img/part1.jpeg')";
         body.style.backgroundSize = "cover";
     };
-}); 
+});  */
 
 
-/*document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function() {
     var img = new Image();
     img.src = 'assets/img/part1.jpeg';
 
@@ -40,4 +40,4 @@ document.addEventListener("DOMContentLoaded", function() {
         body.style.height = "100vh";
         body.style.margin = "0";
     };
-});*/
+});
